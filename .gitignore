@@ -1,0 +1,7 @@
+node_modules/
+.netlify
+.env
+test.js
+./index.html
+
+package-lock.json
